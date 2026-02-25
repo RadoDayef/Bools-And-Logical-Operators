@@ -26,3 +26,9 @@ In this project, we cover:
 | true  | false | false   |
 | false | true  | false   |
 | false | false | false   |
+
+### NOT Truth Table
+| A      | NOT A |
+|--------|-------|
+| !true  | false |
+| !false | true  |
